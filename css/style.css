@@ -144,7 +144,7 @@
 }
 
 /**************************/
-/* BELOW 944px (Tablets) */
+/* (Tablets) */
 /**************************/
 
 @media (max-width: 59em) {
@@ -155,10 +155,10 @@
 }
 
 /**************************/
-/* BELOW 544px (Phones) */
+/*  (Phones) */
 /**************************/
 
-@media (max-width: 34em) {
+@media (max-width: 44em) {
   html {
     font-size: 50%;
   
