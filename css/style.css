@@ -68,8 +68,7 @@
 .duration,
 .job-position,
 .education-background,
-.university-name,
-.credit-score {
+.university-name {
   font-weight: 400;
   font-size: 1.5rem;
   color: rgb(50, 47, 47);
@@ -117,10 +116,9 @@
 .university-name {
   margin-top: 1rem;
 }
-.credit-score {
-  margin-top: 1rem;
-  font-weight: 500;
-  margin-bottom: 2rem;
+
+.key-skills {
+    margin-top: 2rem;
 }
 
 .skills-container li {
