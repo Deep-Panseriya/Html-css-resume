@@ -165,7 +165,7 @@
     font-size: 50%;
   }
   .header {
-    gap: 2rem;
+    padding: 0.5rem;
   }
   .heading-primary {
     font-size: 1.5rem;
